@@ -1,0 +1,14 @@
+* {
+    font-size: 20px;
+}
+
+form {
+    padding: 5px;
+    margin-top: 40px;
+}
+
+button:hover {
+    background-color: brown;
+    color: white;
+    transition: 0.4s;
+}
